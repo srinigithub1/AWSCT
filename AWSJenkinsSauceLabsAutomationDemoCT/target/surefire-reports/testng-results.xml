@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35558" started-at="2022-08-28T10:40:20 IST" finished-at="2022-08-28T10:40:55 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35558" started-at="2022-08-28T10:40:20 IST" finished-at="2022-08-28T10:40:55 IST">
+      <class name="pkg_mavenTestNg.SaucelabsAutomationTestNGTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@5ce81285]" name="setUp" is-config="true" duration-ms="6494" started-at="2022-08-28T10:40:20 IST" finished-at="2022-08-28T10:40:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@5ce81285]" name="Login" duration-ms="3190" started-at="2022-08-28T10:40:26 IST" finished-at="2022-08-28T10:40:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="checkout()[pri:1, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@5ce81285]" name="checkout" duration-ms="1307" started-at="2022-08-28T10:40:29 IST" finished-at="2022-08-28T10:40:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method status="PASS" signature="CustormerDetails()[pri:2, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@5ce81285]" name="CustormerDetails" duration-ms="2168" started-at="2022-08-28T10:40:31 IST" finished-at="2022-08-28T10:40:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustormerDetails -->
+        <test-method status="PASS" signature="Logout()[pri:3, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@5ce81285]" name="Logout" duration-ms="5597" started-at="2022-08-28T10:40:33 IST" finished-at="2022-08-28T10:40:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@5ce81285]" name="tearDown" is-config="true" duration-ms="1143" started-at="2022-08-28T10:40:38 IST" finished-at="2022-08-28T10:40:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pkg_mavenTestNg.SaucelabsAutomationTestNGTest -->
+      <class name="pkg_mavenTestNg.UipathRegistrationTestNGTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pkg_mavenTestNg.UipathRegistrationTestNGTest@78c03f1f]" name="setUp" is-config="true" duration-ms="2345" started-at="2022-08-28T10:40:40 IST" finished-at="2022-08-28T10:40:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="uipathRegistration()[pri:0, instance:pkg_mavenTestNg.UipathRegistrationTestNGTest@78c03f1f]" name="uipathRegistration" duration-ms="12213" started-at="2022-08-28T10:40:42 IST" finished-at="2022-08-28T10:40:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uipathRegistration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pkg_mavenTestNg.UipathRegistrationTestNGTest@78c03f1f]" name="tearDown" is-config="true" duration-ms="974" started-at="2022-08-28T10:40:54 IST" finished-at="2022-08-28T10:40:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pkg_mavenTestNg.UipathRegistrationTestNGTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
